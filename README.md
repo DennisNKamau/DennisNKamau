@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dennis Kamau
 ====================================================================================================================================
 
-I'm a full-stack Software developer
+I'm a full-stack Software developer.
 -----------------------------------
 
 I'm a software developer passionate about frontend and full-stack web development. I enjoy building user-friendly applications. I'm committed to delivering high-quality software solutions and love collaborating with teams to bring innovative ideas to life. Let's connect and create something amazing together!
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [njaudennis30@gmail.com](mailto:njaudennis30@gmail.com)
 * 🧠  I'm learning full-stack sofware development.
 * 🤝  I'm open to collaborating on Full-stack development and system development.

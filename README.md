@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a full-stack Software developer.
 -----------------------------------
 
-I'm a software developer passionate about frontend and full-stack web development. I enjoy building user-friendly applications. I'm committed to delivering high-quality software solutions and love collaborating with teams to bring innovative ideas to life. Let's connect and create something amazing together!
+I'm a software developer passionate about frontend and full-stack web development. I enjoy building user-friendly applications. I'm committed to delivering high-quality software solutions and love collaborating with teams to bring innovative ideas to life. Let's connect and create something amazing together.
 
 * 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [njaudennis30@gmail.com](mailto:njaudennis30@gmail.com)
-* 🧠  I'm learning full-stack sofware development.
+* 🧠  I'm learning full-stack software development.
 * 🤝  I'm open to collaborating on Full-stack development and system development.
 
 ### Skills

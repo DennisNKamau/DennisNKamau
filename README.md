@@ -24,7 +24,11 @@ I'm a software developer passionate about frontend and full-stack web developmen
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DennisNKamau"><img src="https://github-readme-stats.vercel.app/api?username=DennisNKamau&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="DennisNKamau's GitHub stats" /></a>
+[![DennisNKamau's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisNKamau&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000)](https://github.com/DennisNKamau/github-readme-stats&show_icons=true)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisNKamau&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true)
 
 
 ### Socials

@@ -11,7 +11,7 @@ I'm a full-stack Software developer.
 I'm a software developer passionate about frontend and full-stack web development. I enjoy building user-friendly applications. I'm committed to delivering high-quality software solutions and love collaborating with teams to bring innovative ideas to life. Let's connect and create something amazing together.
 
 * 🌍  I'm based in Nairobi, Kenya.
-* ✉️  You can contact me at <img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/r
+* ✉️  You can contact me at [njaudennis30@gmail.com](mailto:njaudennis30@gmail.com)
 * 🧠  I'm learning full-stack software development.
 * 🤝  I'm open to collaborating on Full-stack development and system development.
 

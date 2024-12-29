@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="center" alt="Computador iuriCode">
-
 ```tsx
 import React from 'react';
 
 const Profile: React.FC = () => {
   return (
-    <h3>A passionate JavaScript engineer from Kenya!</h3>
+    <h3>A passionate Software engineer from Kenya!</h3>
   );
 };
 

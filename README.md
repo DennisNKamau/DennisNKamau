@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-I'm a full-stack Software developer.
+I'm a Full-stack Software developer.
 -----------------------------------
 
 I'm a software developer passionate about frontend and full-stack web development. I enjoy building user-friendly applications. I'm committed to delivering high-quality software solutions and love collaborating with teams to bring innovative ideas to life. Let's connect and create something amazing together.

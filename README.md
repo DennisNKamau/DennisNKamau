@@ -41,4 +41,6 @@ I'm a software developer passionate about frontend and full-stack web developmen
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DennisNKamau&label=Profile%20views&color=0e75b6&style=flat" alt="DennisNKamau"/> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DennisNKamau&label=Profile%20views&color=4c5544&style=plastic" alt="DennisNKamau" /> </p>
+
 
